@@ -73,5 +73,5 @@ print('If you are considering mortgage as a unrecoverable cost please refer to t
 
 '''
 To Add later
-Interest rates for a more accurate mortgage for the 10,20,30 payments
+Interest rates for a more accurate mortgage for the 10,20,30 payments. To be safe, so whatever the interest is, say 3.67% just make it 4%
 '''
