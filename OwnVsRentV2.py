@@ -1,3 +1,7 @@
+def twoDecimalPlacer(number):
+	newNumber = '{:.2f}'.format(number)
+	print('$'+newNumber)
+
 print('Want to make a sound investment decision?')
 print('\nWell,with this app you can!\n')
 print('We will compare the unrecoverable costs of an apartment vs a house!\n')
